@@ -3,9 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps
+
 <pre>
 Clone Repo
-Run npm in root of projectn to install dependecies
+Run npm in root of projectto install dependencies
 npm start to run project
 </pre>
 
