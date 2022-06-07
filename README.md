@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps
-Clone repo
-Run npm in command line
+<pre>
+Clone Repo
+Run npm in root of projectn to install dependecies
+npm start to run project
+</pre>
 
 ## Available Scripts
 
